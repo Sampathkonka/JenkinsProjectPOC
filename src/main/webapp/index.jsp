@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hi, This is my first Jenkins App</h2>
+<h2>Hi, Jenkins Pipeline triggers automatically upon commiting code!!</h2>
 </body>
 </html>
